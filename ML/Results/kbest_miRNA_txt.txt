@@ -1,0 +1,39 @@
+10
+For ADABoost : Highest accuracy was 0.90641 with 11 features
+For ADABoost : Second Highest accuracy was 0.90641 with 11 features
+For ADABoost : Third Highest accuracy was 0.90641 with 11 features
+For GaussianNB : Highest accuracy was 0.888462 with 45 features
+For GaussianNB : Second Highest accuracy was 0.888462 with 45 features
+For GaussianNB : Third Highest accuracy was 0.888462 with 45 features
+For ExtraTrees : Highest accuracy was 0.969231 with 71 features
+For ExtraTrees : Second Highest accuracy was 0.952564 with 6 features
+For ExtraTrees : Third Highest accuracy was 0.952564 with 11 features
+For RandomForest : Highest accuracy was 0.967949 with 45 features
+For RandomForest : Second Highest accuracy was 0.967949 with 45 features
+For RandomForest : Third Highest accuracy was 0.953846 with 45 features
+2
+For ADABoost : Highest accuracy was 0.8576923076923076 with 52 features
+For ADABoost : Second Highest accuracy was 0.8576923076923076 with 52 features
+For ADABoost : Third Highest accuracy was 0.8576923076923076 with 52 features
+For GaussianNB : Highest accuracy was 0.8897435897435898 with 6 features
+For GaussianNB : Second Highest accuracy was 0.8897435897435898 with 6 features
+For GaussianNB : Third Highest accuracy was 0.8897435897435898 with 6 features
+For ExtraTrees : Highest accuracy was 0.938462 with 100 features
+For ExtraTrees : Second Highest accuracy was 0.937179 with 37 features
+For ExtraTrees : Third Highest accuracy was 0.9217948717948719 with 38 features
+For RandomForest : Highest accuracy was 0.921795 with 6 features
+For RandomForest : Second Highest accuracy was 0.921795 with 6 features
+For RandomForest : Third Highest accuracy was 0.919231 with 6 features
+age
+For ADABoost : Highest accuracy was 0.8475 with 11 features
+For ADABoost : Second Highest accuracy was 0.8475 with 11 features
+For ADABoost : Third Highest accuracy was 0.8475 with 11 features
+For GaussianNB : Highest accuracy was 0.923333 with 53 features
+For GaussianNB : Second Highest accuracy was 0.923333 with 53 features
+For GaussianNB : Third Highest accuracy was 0.923333 with 53 features
+For ExtraTrees : Highest accuracy was 0.960833 with 80 features
+For ExtraTrees : Second Highest accuracy was 0.948333 with 21 features
+For ExtraTrees : Third Highest accuracy was 0.948333 with 25 features
+For RandomForest : Highest accuracy was 0.935 with 53 features
+For RandomForest : Second Highest accuracy was 0.935 with 53 features
+For RandomForest : Third Highest accuracy was 0.923333 with 53 features
